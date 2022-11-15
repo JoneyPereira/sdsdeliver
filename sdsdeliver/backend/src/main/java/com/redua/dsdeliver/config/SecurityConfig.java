@@ -1,4 +1,4 @@
-package config;
+package com.redua.dsdeliver.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
