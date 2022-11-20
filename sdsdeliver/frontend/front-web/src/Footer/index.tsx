@@ -1,5 +1,5 @@
 import './styles.css';
-import {ReactComponent as Youtube} from './yotube.svg';
+import {ReactComponent as Youtube} from './youtube.svg';
 import {ReactComponent as Instagram} from './instagram.svg';
 import {ReactComponent as Linkedin} from './linkedin.svg';
 
