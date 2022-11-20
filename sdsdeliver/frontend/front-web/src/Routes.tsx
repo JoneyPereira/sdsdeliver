@@ -1,9 +1,9 @@
-import {BrowserRouter, Routes, Route} from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./Home";
 import Navbar from "./Navbar";
 import Orders from "./Orders";
 
-function Routes(){
+function Rotas(){
 
     return(
         <BrowserRouter>
@@ -20,4 +20,4 @@ function Routes(){
     )
 
 }
-export default Routes;
+export default Rotas;
